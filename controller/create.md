@@ -9,4 +9,5 @@
 - update:データを更新する<br>
 - destroy:データを削除する<br>
 <br>
-### ex)rails g controller Books new index show edit
+### ex)rails g controller Books new index show edit<br>
+### ex)rails g controller Review_tags create destroy(レビューとタグの間の中間テーブル)
