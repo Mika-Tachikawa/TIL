@@ -14,4 +14,5 @@
 ~/environment/ $ javac ディレクトリ名/〇〇.java<br>
 
 ## 実行
-~/environment/ $ java ディレクトリ名.〇〇<br>
+~/environment/ $ java ディレクトリ名.〇〇(コンパイルしたファイル名)<br>
+~/environment/ディレクトリ名 $ java 〇〇(コンパイルしたファイル名)<br>
